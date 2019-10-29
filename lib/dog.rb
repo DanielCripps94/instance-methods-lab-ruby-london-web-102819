@@ -7,5 +7,5 @@ class Dog
   end
 end
 
-Dog.bark
-Dog.sit 
+dog.bark
+dog.sit 
